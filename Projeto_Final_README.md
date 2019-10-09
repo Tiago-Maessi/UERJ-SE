@@ -1,5 +1,8 @@
+
 Aluno: Tiago Maessi Santos Junior 
+
 Disciplina: Software Embarcado
+
 Professor: Francisco Sant’Anna
 
 Projeto proposto: Ar-condicionado Controlado por Arduino Via Bluetooth, Via Infravermelho e com Medição de Temperatura
